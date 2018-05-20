@@ -2,7 +2,7 @@
 This repository has codes for the competitions I participated in kaggle. These competitions are over now.
 
 Following are the competitions for which the codes are available:
-- Text Normalization Challenge by Google (Public Competition)
+- [Text Normalization Challenge by Google (Public Competition)](https://www.kaggle.com/c/text-normalization-challenge-english-language)
    - Technqiues used: XgBoost for text class prediction, Regular Expressions for text transformation
 - Women in Data Science Datathon by Standford (Opened for teams with 50% women representation)
    - Ensemble of XGBoost, Light GBM & Catboost, Missing Values Imputation
