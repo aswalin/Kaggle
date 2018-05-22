@@ -16,4 +16,4 @@ Following are the competitions for which the codes are available:
    - Random Forest & LightGBM
    
 - [Quora Question Pair](https://www.kaggle.com/c/quora-question-pairs) (Public Competition)
-   - For this competition, I have used facebook sentence embedding ([Infersent])(https://github.com/facebookresearch/InferSent) recently launched by facebook
+   - For this competition, I have used facebook sentence embedding [(Infersent)](https://github.com/facebookresearch/InferSent) recently launched by facebook
